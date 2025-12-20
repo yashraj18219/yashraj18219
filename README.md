@@ -39,7 +39,7 @@
 </p>
 
 
-<!--<a href="instagram" target="blank">--/<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikalp_._8" height="30" width="40" /></a>
+<!--<a href="instagram" target="blank">--/<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash" height="30" width="40" /></a>
 -->
 
 
@@ -48,7 +48,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj18219&layout=compact&theme=dark" alt="yash18219" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj18219&show_icons=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=1A1A1A" alt="yash18219" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj18219&show_icons=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=1A1A1A" alt="yash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yashraj18219&theme=dark" alt="yash18219" /></p>
+
+
 
