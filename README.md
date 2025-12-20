@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/yash-raj8651/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-raj" height="30" width="40" /></a>
 <!--<a href="instagram" target="blank">--/<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikalp_._8" height="30" width="40" /></a>
 -->
-<a href="https://www.codechef.com/users/yash_raj07" target="blank" src="https://github.com/Anikalp1/CodeChefMMMUTChapter/blob/main/assets/CodeChef.png"><img align="center"  alt="anikalp_1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yash_raj07" target="blank"><img align="center" src="https://github.com/Anikalp1/CodeChefMMMUTChapter/blob/main/assets/CodeChef.png" alt="anikalp_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
