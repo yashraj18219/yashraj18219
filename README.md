@@ -1,8 +1,7 @@
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ1bWNlemY3dTYzbm4yOWZlZ2U2NHVkMjU3cHVxdzl6N3ZmZGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)](https://github.com/Anikalp1)
 
-[![MasterHead]([https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4YzF1OXJocjAzODB1aHRqaGs3OTZtZnZ5MjN6YzlvcXJ5OXlidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif))]
-
-<h1 align="center">Hello 👋, I'm YASH RAJ</h1>
-<h3 align="center"> Contributor || MERN Stack Developer || Competitive programmer</h3>
+<h1 align="center">Hello 👋, I'm Anikalp Jaiswal</h1>
+<h3 align="center"> Contributor || Front-end developer || Competitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikalp1&label=Profile%20views&color=0e75b6&style=flat" alt="anikalp1" /> </p>
