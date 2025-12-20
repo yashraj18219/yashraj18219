@@ -1,25 +1,33 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ1bWNlemY3dTYzbm4yOWZlZ2U2NHVkMjU3cHVxdzl6N3ZmZGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)](https://github.com/Anikalp1)
+<p align="center">
+  <a href="https://github.com/yashraj18219">
+    <img 
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ1bWNlemY3dTYzbm4yOWZlZ2U2NHVkMjU3cHVxdzl6N3ZmZGU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+      alt="MasterHead"
+      width="600"
+    />
+  </a>
+</p>
 
-<h1 align="center">Hello 👋, I'm Anikalp Jaiswal</h1>
-<h3 align="center"> Contributor || Front-end developer || Competitive programmer</h3>
+
+<h1 align="center">Hello 👋, I'm Yash Raj</h1>
+<h3 align="center"> Contributor || MERN Stack Developer || Competitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikalp1&label=Profile%20views&color=0e75b6&style=flat" alt="anikalp1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anikalpjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/anikalpjaiswal?logo=twitter&style=for-the-badge" alt="anikalpjaiswal" /></a> </p>
-
-- 👨‍💻 All about me ||  [My Portfolio](https://anikalp-portfolio.vercel.app/)
+- 👨‍💻 All about me 
 
 - 💬 Ask me about **Full-Stack development**
 
-- 📫 How to reach me **anikalpjaiswal1@gmail.com**
+- ✪ I’m currently working on MERN Stack Technologies
+
+- 📫 How to reach me **yashraj18219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anikalpjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikalpjaiswal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anikalp-jaiswal-87a815224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikalp-jaiswal-87a815224" height="30" width="40" /></a>
-<a href="https://instagram.com/anikalp_._8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikalp_._8" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anikalp_1" target="blank"><img align="center" src="https://github.com/Anikalp1/CodeChefMMMUTChapter/blob/main/assets/CodeChef.png" alt="anikalp_1" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/yash-raj8651/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-raj" height="30" width="40" /></a>
+<!--<a href="instagram" target="blank">--/<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikalp_._8" height="30" width="40" /></a>
+-->
+<a href="https://www.codechef.com/users/yash_raj07" target="blank"><img align="center"  alt="anikalp_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
